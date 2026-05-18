@@ -52,5 +52,5 @@ Tech: MERN, Python, Serper API
 
 ## 📬 Connect
 
-- Email: yourmail@gmail.com  
-- LinkedIn: your link  
+- Email: itsrahulsingh2004@gmail.com
+- LinkedIn: [your link](https://www.linkedin.com/in/rahulsingh005/)  
