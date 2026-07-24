@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Rahul%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Systems%20Builder%20%C2%B7%20IIT%20Roorkee&descAlignY=62&descSize=15&descColor=ffffffcc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Rahul%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Systems%20Builder%20%C2%B7%20IIT%20Roorkee%20Graduate&descAlignY=62&descSize=15&descColor=ffffffcc&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -15,14 +15,25 @@
 
 <br/>
 
-```js
-const rahul = {
-  location : "IIT Roorkee, Uttarakhand 🇮🇳",
-  role     : "Final Year B.Tech  →  Full Stack Developer",
-  building : ["AI-powered web apps", "LLM integrations", "Chrome extensions"],
-  seeking  : "SDE / Full Stack / Backend  —  open to relocation",
-  contact  : "itsrahulsingh2004@gmail.com",
-};
+```python
+class RahulSingh(Developer):
+    def __init__(self):
+        self.location  = "India 🇮🇳"
+        self.education = "B.Tech, IIT Roorkee — Graduated 2026"
+        self.role      = "Full Stack Developer · AI Systems Builder"
+        self.stack     = ["MERN", "Python", "LLM APIs", "Chrome Extensions"]
+        self.seeking   = "SDE / Full Stack / Backend roles — open to relocation"
+        self.contact   = "itsrahulsingh2004@gmail.com"
+
+    def currently_building(self) -> list[str]:
+        return [
+            "Real-time chat & messaging platforms",
+            "AI-powered summarization tools",
+            "ML models for financial sentiment analysis",
+        ]
+
+    def __repr__(self):
+        return "Rahul Singh — builds fast, ships often, learns constantly."
 ```
 
 <br/>
@@ -53,7 +64,7 @@ const rahul = {
 
 </div>
 
-AI-powered summarization platform for **articles & YouTube videos**. Includes a Chrome extension that lets you summarize any webpage in one click using Gemini API.
+AI-powered summarization platform for **articles & YouTube videos**. Includes a Chrome extension that summarizes any webpage in one click using the Gemini API.
 
 **Highlights:**
 - 🔌 Chrome extension + full web dashboard
@@ -71,23 +82,27 @@ AI-powered summarization platform for **articles & YouTube videos**. Includes a 
 
 <div align="center">
 
-### 🧱 Matex
+### 💬 BlinkChat
 
-![Matex](https://img.shields.io/badge/Status-Live-1D9E75?style=flat-square)
-![Type](https://img.shields.io/badge/Type-B2B%20Platform-D85A30?style=flat-square)
+![BlinkChat](https://img.shields.io/badge/Status-Live-1D9E75?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Real--Time%20App-D85A30?style=flat-square)
 
 </div>
 
-Material recommendation platform that **connects buyers with the right vendors**. Intelligent matching engine surfaces the most relevant materials based on user requirements.
+Full-stack **real-time chat application** built on the MERN stack with Socket.io, featuring JWT auth, Google sign-in, and a responsive light/dark UI.
 
 **Highlights:**
-- 🔍 Smart recommendation engine
-- 🏪 Vendor & buyer dual interface
-- 📦 Full-stack CRUD with MongoDB
+- ⚡ Real-time messaging via Socket.io
+- 🔐 JWT auth + Google OAuth sign-in
+- 🖼️ Cloudinary-powered profile images
+- 🎨 Light/Dark theming with DaisyUI
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/RahulSingh005/BlinkChat)
 
 </td>
 
@@ -110,7 +125,7 @@ Material recommendation platform that **connects buyers with the right vendors**
 
 </div>
 
-Cuts through SEO noise to **discover genuine personal blogs**. AI-powered re-ranking filters out commercial content to surface real human perspectives on any topic.
+Cuts through SEO noise to **discover genuine personal blogs**. An AI re-ranking layer filters out commercial content to surface real human perspectives on any topic.
 
 **Highlights:**
 - 🤖 AI re-ranking layer over Serper API
@@ -167,25 +182,25 @@ Chrome extension for **annotating any webpage** — highlight text, add sticky n
 
 <div align="center">
 
-### 📈 FidelFolio
+### 📈 Stock Sentiment Analysis
 
-![FidelFolio](https://img.shields.io/badge/Status-Live-1D9E75?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Deep%20Learning-BA7517?style=flat-square)
+![Stock](https://img.shields.io/badge/Status-Live-1D9E75?style=flat-square)
+![Type](https://img.shields.io/badge/Type-ML%20%2F%20NLP-BA7517?style=flat-square)
 
 </div>
 
-Deep learning system that **predicts future market cap growth** of listed companies using an LSTM-GRU hybrid + Transformer architecture trained on historical fundamental data.
+ML model that analyzes **sentiment from news headlines & financial text** to predict stock price movements, aiding data-driven trading decisions.
 
 **Highlights:**
-- 🧠 LSTM-GRU + Transformer ensemble
-- 📊 Trained on fundamental indicators
-- 📉 Predicts long-term cap trajectory
+- 📰 NLP sentiment scoring on news headlines
+- 📊 Evaluated with Accuracy, F1, ROC AUC, Sharpe Ratio
+- 📉 Tested on Google & Microsoft stock data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/RahulSingh005/FidelFolio)
+[![View Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/RahulSingh005/Stock-Sentiment-Analysis-Using-Machine-Learning)
 
 </td>
 
