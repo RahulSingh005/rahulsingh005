@@ -1,134 +1,304 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/header-light.svg">
-  <img width="100%" alt="Rahul Singh. Full-stack developer, B.Tech IIT Roorkee '26. Builds real-time web apps, Chrome extensions and LLM features. Available for SDE roles." src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/header-dark.svg">
-</picture>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahulsingh005/"><img alt="LinkedIn: rahulsingh005" src="https://img.shields.io/badge/LinkedIn-rahulsingh005-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:itsrahulsingh2004@gmail.com"><img alt="Email: itsrahulsingh2004@gmail.com" src="https://img.shields.io/badge/Email-itsrahulsingh2004-0891B2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=RahulSingh005&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d419d,100:1f6feb&height=180&section=header&text=Rahul%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20ML%20Engineer&descAlignY=60&descSize=16" width="100%" alt="Rahul Singh, Software Engineer, Full Stack Developer, ML Engineer"/>
 
-## About
+</div>
 
-I'm a full-stack developer and a 2026 graduate of IIT Roorkee. Most of what I build is real-time web apps on the MERN stack, with Python for the ML and LLM parts. At Handshake AI I wrote repository-level coding tasks and measured how often AI agents could solve them. Before that I shipped a Chrome extension at DNote that 150 beta users used to save and search what they read.
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/about-light.svg">
-  <img width="100%" alt="Education: IIT Roorkee, B.Tech 2022 to 2026. Experience: AI Trainer at Handshake AI, before that SDE intern at DNote. Focus: MERN, Next.js and Python. Status: open to SDE, full-stack and backend roles, and to relocation." src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/about-dark.svg">
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulsingh005-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsingh005/)
+[![GitHub](https://img.shields.io/badge/GitHub-RahulSingh005-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulSingh005)
+[![Email](https://img.shields.io/badge/Gmail-itsrahulsingh2004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsrahulsingh2004@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=RahulSingh005&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RahulSingh005)
 
-## Projects
+</div>
+
+<br/>
+
+## 👋 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;ML+Engineer;IIT+Roorkee+%2726" alt="Software Engineer, Full Stack Developer, ML Engineer, IIT Roorkee '26"/>
+
+<br/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-readwatch-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-readwatch-light.svg">
-        <img width="100%" alt="ReadWatch: summarizes articles and YouTube videos with Gemini; a Chrome extension queues pages as you browse. 95% of pages fetched, 17 REST endpoints, 3 services. React, Express, MongoDB, Flask, Gemini." src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-readwatch-dark.svg">
-      </picture>
-      <p align="center"><a href="https://readwatch-ebon.vercel.app/"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/RahulSingh005/ShelfStream"><b>Source</b></a></p>
+    <td align="center" width="240">
+      <h3>🎓 Education</h3>
+      <b>B.Tech, IIT Roorkee</b><br/>
+      <span>Graduated 2026</span>
     </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-blinkchat-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-blinkchat-light.svg">
-        <img width="100%" alt="BlinkChat: MERN and Socket.io messenger with group chats, WebRTC calls and LLM catch-up summaries. 256 members per group, 53 REST endpoints, 52 backend tests. React, Node.js, MongoDB, Socket.io, WebRTC." src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-blinkchat-dark.svg">
-      </picture>
-      <p align="center"><a href="https://blink-chat-nine-omega.vercel.app/"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/RahulSingh005/BlinkChat"><b>Source</b></a></p>
+    <td align="center" width="240">
+      <h3>💻 Role</h3>
+      <b>Software Engineer</b><br/>
+      <span>Full Stack · ML Engineer</span>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-stock-sentiment-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-stock-sentiment-light.svg">
-        <img width="100%" alt="Stock Sentiment Analysis: scores daily news sentiment with VADER and tests whether it helps predict GOOGL and MSFT prices. 46K headlines scored, R² 0.92 on GOOGL, 250 trading days. Python, scikit-learn, Keras, VADER." src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-stock-sentiment-dark.svg">
-      </picture>
-      <p align="center"><a href="https://github.com/RahulSingh005/Stock-Sentiment-Analysis-Using-Machine-Learning"><b>Source</b></a></p>
+    <td align="center" width="240">
+      <h3>🛠️ Core Stack</h3>
+      <b>MERN · Python · ML</b><br/>
+      <span>LLM APIs · Chrome Ext</span>
     </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-crop-prediction-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-crop-prediction-light.svg">
-        <img width="100%" alt="Crop Prediction: recommends a crop from soil nutrients, pH and weather with a Random Forest model served by Flask. 99.3% test accuracy, 22 crop classes, 7 input features. Python, scikit-learn, Flask, Render." src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/card-crop-prediction-dark.svg">
-      </picture>
-      <p align="center"><a href="https://crop-prediction-x3iq.onrender.com/"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/RahulSingh005/Crop-Prediction"><b>Source</b></a></p>
+    <td align="center" width="240">
+      <h3>📬 Status</h3>
+      <b>Open to SDE / ML Roles</b><br/>
+      <span>Open to relocation</span>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>More: <a href="https://github.com/RahulSingh005/FidelFolio">FidelFolio</a> · <a href="https://github.com/RahulSingh005/TranslateEase">TranslateEase</a> · <a href="https://github.com/RahulSingh005/Web-Annotator">Web Annotator</a> · <a href="https://github.com/RahulSingh005?tab=repositories">all repositories</a></sub></p>
+<br/>
 
-## Tech Stack
+**🚀 Currently Building**
 
-<div align="center">
-
-<p>
-<sub><b>LANGUAGES</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cjs%2Cts&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cjs%2Cts&theme=light">
-  <img alt="Python, C++, JavaScript, TypeScript" src="https://skillicons.dev/icons?i=py%2Ccpp%2Cjs%2Cts&theme=dark">
-</picture>
-</p>
-
-<p>
-<sub><b>FRAMEWORKS & LIBRARIES</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cnodejs%2Cexpress%2Cflask%2Ctailwind%2Csklearn&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cnodejs%2Cexpress%2Cflask%2Ctailwind%2Csklearn&theme=light">
-  <img alt="React, Next.js, Node.js, Express, Flask, Tailwind CSS, scikit-learn" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cnodejs%2Cexpress%2Cflask%2Ctailwind%2Csklearn&theme=dark">
-</picture>
-</p>
-
-<p>
-<sub><b>DATABASES</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Credis&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Credis&theme=light">
-  <img alt="MongoDB, MySQL, PostgreSQL, Redis" src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Credis&theme=dark">
-</picture>
-</p>
-
-<p>
-<sub><b>TOOLS & PLATFORMS</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cpostman%2Cvercel%2Csupabase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cpostman%2Cvercel%2Csupabase&theme=light">
-  <img alt="Git, GitHub, Docker, Postman, Vercel, Supabase" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cpostman%2Cvercel%2Csupabase&theme=dark">
-</picture>
-</p>
-
-<sub>Also pandas, NumPy, Socket.io, WebRTC and Render</sub>
+<img src="https://img.shields.io/badge/Real--Time%20Chat%20Platforms-238636?style=for-the-badge" alt="Real-Time Chat Platforms"/>
+<img src="https://img.shields.io/badge/AI--Powered%20Summarization-1F6FEB?style=for-the-badge" alt="AI-Powered Summarization"/>
+<img src="https://img.shields.io/badge/Financial%20Sentiment%20ML-DB6D28?style=for-the-badge" alt="Financial Sentiment ML"/>
 
 </div>
 
-## Activity
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<br/>
+
+<div align="center">
+
+### 🌐 Web
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📖 ReadWatch
+
+![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
+![Type](https://img.shields.io/badge/Type-AI%20Platform-1F6FEB?style=flat-square)
+
+</div>
+
+AI-powered summarization platform for **articles & YouTube videos**, with a Chrome extension that summarizes any webpage in one click using the Gemini API.
+
+**Highlights:**
+- Three services: React frontend, Express + MongoDB API, Flask summarizer
+- Playwright and ScraperAPI fallback that fetched 95% of tested pages
+- JWT auth with OTP email verification across 17 REST endpoints
+
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome_Ext-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulSingh005/ShelfStream)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white)](https://readwatch-ebon.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💬 BlinkChat
+
+![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Real--Time%20App-DB6D28?style=flat-square)
+
+</div>
+
+Full-stack **real-time chat application** built on MERN and Socket.io, with group chats, WebRTC calls and LLM-powered catch-up summaries.
+
+**Highlights:**
+- Group chats of up to 256 members with read receipts and presence
+- WebRTC voice and video calls with screen sharing
+- JWT + Google OAuth sign-in, rate limiting and 52 backend tests
+- Cloudinary media and light/dark theming with DaisyUI
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulSingh005/BlinkChat)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white)](https://blink-chat-nine-omega.vercel.app/)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🤖 ML & Deep Learning
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📈 Stock Sentiment Analysis
+
+![Status](https://img.shields.io/badge/Status-Research-6E7681?style=flat-square)
+![Type](https://img.shields.io/badge/Type-ML%20%2F%20NLP-1F6FEB?style=flat-square)
+
+</div>
+
+ML model that analyzes **sentiment from news headlines** to predict stock price movements for Google and Microsoft.
+
+**Highlights:**
+- Scored 46K news headlines with VADER across 250 trading days
+- Compared Random Forest, SVM, a Keras MLP and tree regressors
+- Decision Tree regressor reached R² 0.92 on GOOGL closing price
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulSingh005/Stock-Sentiment-Analysis-Using-Machine-Learning)
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌾 Crop Prediction
+
+![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
+![Type](https://img.shields.io/badge/Type-ML%20Web%20App-DB6D28?style=flat-square)
+
+</div>
+
+ML-powered web app that **recommends the best crop** to grow from soil nutrients, temperature, humidity and rainfall.
+
+**Highlights:**
+- Random Forest classifier with 99.3% test accuracy across 22 crops
+- Uses 7 inputs: N, P, K, pH, temperature, humidity and rainfall
+- Flask web app deployed on Render
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulSingh005/Crop-Prediction)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=render&logoColor=white)](https://crop-prediction-x3iq.onrender.com/)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Machine Learning**
+
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=RahulSingh005&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&bg_color=0d1117" height="170" alt="GitHub stats"/>
+&nbsp;&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RahulSingh005&layout=compact&langs_count=6&hide=jupyter%20notebook,procfile&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" height="170" alt="Most used languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=RahulSingh005&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="170" alt="GitHub streak"/>
+
+</div>
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/output/activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/output/activity-light.svg">
-  <img width="100%" alt="Contribution activity for the last 12 months: weekly contributions, current and longest streak, best day and activity by weekday." src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/output/activity-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/profile-3d-contrib/profile-green.svg">
+  <img width="94%" alt="3D contribution chart with contribution types and languages" src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/profile-3d-contrib/profile-night-green.svg">
 </picture>
 
-<p align="center"><sub>Redrawn every hour by a <a href=".github/workflows/activity.yml">GitHub Action</a> from my contribution calendar.</sub></p>
+</div>
 
-## Contact
+---
 
-Open to SDE, full-stack and backend roles, and happy to relocate. Email is the fastest way to reach me.
+<div align="center">
 
-<p>
-  <a href="mailto:itsrahulsingh2004@gmail.com"><img alt="Send an email" src="https://img.shields.io/badge/Send_an_email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rahulsingh005/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/RahulSingh005?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Browse_repositories-1E293B?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+### 💬 Let's Connect
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/footer-light.svg">
-  <img width="100%" alt="" src="https://raw.githubusercontent.com/RahulSingh005/rahulsingh005/main/assets/footer-dark.svg">
-</picture>
+**Open to Software Engineer, Full Stack and ML Engineer roles.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsingh005/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsrahulsingh2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_Repos-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulSingh005?tab=repositories)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d419d&height=100&section=footer" width="100%" alt=""/>
