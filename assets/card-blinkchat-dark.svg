@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="368" viewBox="0 0 560 368" role="img" aria-labelledby="title desc">
+<title id="title">BlinkChat</title>
+<desc id="desc">BlinkChat. MERN and Socket.io messenger with group chats, WebRTC calls and LLM catch-up summaries. 256 members per group, 53 REST endpoints, 52 backend tests. Built with React, Node.js, MongoDB, Socket.io, WebRTC.</desc>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
+.mono{font-family:ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, Menlo, monospace}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+
+<defs>
+  <clipPath id="clip"><rect width="560" height="368" rx="22"/></clipPath>
+  <radialGradient id="glow"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.240"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="560" height="368" fill="#111824"/>
+  <circle cx="520" cy="10" r="230" fill="url(#glow)"/>
+</g>
+<rect x=".5" y=".5" width="559" height="367" rx="22" fill="none" stroke="#223044"/>
+<rect x="30" y="26" width="223.3" height="32" rx="9" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".35"/>
+<text class="mono" x="44" y="47.5" font-size="15" font-weight="600" letter-spacing="1" fill="#22D3EE">REAL-TIME · MESSAGING</text>
+<circle class="pulse" cx="483.9" cy="42" r="5" fill="#34D399"/>
+<text class="sans" x="530" y="47.5" font-size="16" font-weight="600" text-anchor="end" fill="#93A1B5">Live</text>
+<text class="sans" x="30" y="108" font-size="32" font-weight="700" letter-spacing="-.6" fill="#E8EDF5">BlinkChat</text>
+<text class="sans" x="30" y="145" font-size="19.5" fill="#93A1B5">MERN and Socket.io messenger with group chats,</text>
+<text class="sans" x="30" y="172" font-size="19.5" fill="#93A1B5">WebRTC calls and LLM catch-up summaries.</text>
+<line x1="30" y1="198" x2="530" y2="198" stroke="#223044"/>
+<text class="sans" x="30.0" y="250" font-size="36" font-weight="700" letter-spacing="-1" fill="#22D3EE">256</text><text class="sans" x="30.0" y="276" font-size="17" fill="#93A1B5">members per group</text><text class="sans" x="196.7" y="250" font-size="36" font-weight="700" letter-spacing="-1" fill="#22D3EE">53</text><text class="sans" x="196.7" y="276" font-size="17" fill="#93A1B5">REST endpoints</text><text class="sans" x="363.3" y="250" font-size="36" font-weight="700" letter-spacing="-1" fill="#22D3EE">52</text><text class="sans" x="363.3" y="276" font-size="17" fill="#93A1B5">backend tests</text>
+<rect x="30.0" y="305" width="65.3" height="32" rx="16" fill="#162030" stroke="#223044"/><text class="sans" x="62.7" y="326" font-size="16" text-anchor="middle" fill="#E8EDF5">React</text><rect x="103.3" y="305" width="78.7" height="32" rx="16" fill="#162030" stroke="#223044"/><text class="sans" x="142.7" y="326" font-size="16" text-anchor="middle" fill="#E8EDF5">Node.js</text><rect x="190.0" y="305" width="86.5" height="32" rx="16" fill="#162030" stroke="#223044"/><text class="sans" x="233.3" y="326" font-size="16" text-anchor="middle" fill="#E8EDF5">MongoDB</text><rect x="284.5" y="305" width="92.1" height="32" rx="16" fill="#162030" stroke="#223044"/><text class="sans" x="330.5" y="326" font-size="16" text-anchor="middle" fill="#E8EDF5">Socket.io</text><rect x="384.6" y="305" width="77.8" height="32" rx="16" fill="#162030" stroke="#223044"/><text class="sans" x="423.5" y="326" font-size="16" text-anchor="middle" fill="#E8EDF5">WebRTC</text>
+
+</svg>
